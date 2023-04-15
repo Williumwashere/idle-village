@@ -6,5 +6,5 @@ import "./App.css"
 export default function App() {
   const [count, setCount] = useState(0)
 
-  return <div className="App">HI</div>
+  return <div>HI</div>
 }
